@@ -8,7 +8,7 @@ $(function() {
 
         var subscriptionKey = "093d24b8c28d4ed3a530003d92278aef";
 
-        var uriBase = "https://faceidsample.cognitiveservices.azure.com/";
+        var uriBase = "https://faceidsample.cognitiveservices.azure.com/face/v1.0/detect";
 
         var params = {
             "returnFaceId": "true",
